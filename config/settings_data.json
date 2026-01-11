@@ -9,7 +9,7 @@
  */
 {
   "current": {
-    "storefront_hostname": "homigo.tech/shop",
+    "storefront_hostname": "https://homigo-website.vercel.app/shop",
     "content_for_index": []
   }
 }
