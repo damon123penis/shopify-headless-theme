@@ -9,7 +9,7 @@
  */
 {
   "current": {
-    "storefront_hostname": "shop.homigo.tech",
+    "storefront_hostname": "homigo.tech/shop",
     "multipass_login": true,
     "favicon": "shopify://shop_images/favicon.png",
     "content_for_index": []
